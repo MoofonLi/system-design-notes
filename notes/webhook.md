@@ -240,8 +240,6 @@ Webhook 的核心就是**事件驅動的 HTTP 回調**:
 ## 參考資源
 
 - https://medium.com/@justinlee_78563/line-bot-%E7%B3%BB%E5%88%97%E6%96%87-%E4%BB%80%E9%BA%BC%E6%98%AF-webhook-d0ab0bb192be
-
 - https://ithelp.ithome.com.tw/m/articles/10193212
-
 - [LINE Messaging API 文件](https://developers.line.biz/en/docs/messaging-api/)
 - [ngrok](https://ngrok.com/)
