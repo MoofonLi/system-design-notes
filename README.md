@@ -1,3 +1,3 @@
-# system-design-notes
-#### Notes from *System Design Interview: An Insider’s Guide* by Alex Xu
+# hack-md-notes
+#### System Design, AI and Software Development motes
 [Note Link](https://hackmd.io/@Moofon/categories/system-design)
